@@ -1,6 +1,6 @@
 # Day two of Flappy Dot!
 We tried to make the pipes but an **error**  was ocurring at drawing the rects.
-[Before](https://i.imgur.com/OKZnuTU.png)
+[Before](/images/Screenshot from 2018-08-10 16-22-46.png )
 
 <hr>
 
