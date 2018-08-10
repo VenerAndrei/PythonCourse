@@ -1,5 +1,5 @@
 # Day two of Flappy Dot!
-We tried to make the pipes but an **error**  was ocurring at drawing the rects.
+We tried to make the pipes but an **error**  was occurring at drawing the rects.
 ![Before](https://i.imgur.com/OKZnuTU.png)
 
 # What was the problem?
