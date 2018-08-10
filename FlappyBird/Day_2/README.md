@@ -1,6 +1,6 @@
 # Day two of Flappy Dot!
 We tried to make the pipes but an **error**  was ocurring at drawing the rects.
-[Before](/images/problem.png)
+![Before](/images/problem.png)
 
 <hr>
 
@@ -13,4 +13,4 @@ We used the *pygame.draw.rect()* __WRONG__.As positions to draw the rect it requ
   * x,y are the coordinates of the upper left hand corner
   * width, height are the width and height of the rectangle
   * thickness is the thickness of the line. If it is zero, the rectangle is filled
-[After](https://i.imgur.com/bqtvRKQ.png)
+![After](https://i.imgur.com/bqtvRKQ.png)
