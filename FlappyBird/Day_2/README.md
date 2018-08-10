@@ -1,11 +1,14 @@
 # Day two of Flappy Dot!
 We tried to make the pipes but an **error**  was ocurring at drawing the rects.
 [Before](https://i.imgur.com/OKZnuTU.png)
+
 <hr>
+
 # What was the problem?
+
 We used the *pygame.draw.rect() ***WRONG**.As positions to draw the rect it required **(point_x,point_y,width,heiht)**
 
-* pygame.draw.rect(screen, color, (x,y,width,height), thickness)
+*pygame.draw.rect(screen, color, (x,y,width,height), thickness)
 
   *draws a rectangle
   *(x,y,width,height) is a Python tuple
