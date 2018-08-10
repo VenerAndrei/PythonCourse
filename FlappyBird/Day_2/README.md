@@ -4,7 +4,7 @@ We tried to make the pipes but an **error**  was occurring at drawing the rects.
 
 # What was the problem?
 
-We used the *pygame.draw.rect()* __WRONG__.As positions to draw the rect it required **(point_x,point_y,width,heiht)**
+We used the *pygame.draw.rect()* __WRONG__.As positions to draw the rect it required **(point_x,point_y,width,height)**
 * **pygame.draw.rect(screen, color, (x,y,width,height), thickness)**
   * draws a rectangle
   * (x,y,width,height) is a Python tuple
