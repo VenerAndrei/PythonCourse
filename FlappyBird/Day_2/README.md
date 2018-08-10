@@ -1,6 +1,6 @@
 # Day two of Flappy Dot!
 We tried to make the pipes but an **error**  was ocurring at drawing the rects.
-[Before](/imaes/problem.png)
+[Before](/images/problem.png)
 
 <hr>
 
